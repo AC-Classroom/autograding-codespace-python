@@ -11,5 +11,3 @@ dependencies:
   - ipython
   - ipykernel
   - pytest
-  - pip:
-     - -e .  # install git checkout of package in editable mode

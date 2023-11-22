@@ -1,4 +1,4 @@
-from autograding_codespace_python import hello
+import hello
 
 
 def test_hello():
