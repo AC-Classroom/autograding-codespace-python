@@ -20,7 +20,7 @@
 		"vscode": {
 			// Set *default* container specific settings.json values on container create.
 			"settings": {
-				"python.defaultInterpreterPath": "/opt/conda/envs/my_miniconda_env/bin/python"
+				"python.defaultInterpreterPath": "/home/vscode/venv/bin/python"
 			},
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
