@@ -4,5 +4,5 @@
 ARG VARIANT="3.10-bullseye"
 FROM mcr.microsoft.com/vscode/devcontainers/python:0-${VARIANT}
 
-# create environment
-RUN su vscode -c "python -m venv /home/vscode/venv"
+# # create environment
+# RUN su vscode -c "python -m venv /home/vscode/venv"
