@@ -1,8 +1,8 @@
 👋 Welcome to Codespaces!
 
-⏳ It will take a minute or so for the Codespace to auto-run the Python installation.
+⏳ It will take a few seconds the Codespace to begin installing the Python requirements.
 
-📝 Start by reading the README above.
+📝 In the meantime, begin by following the instructions in the README.
 
 ❓ If you have questions, use the GitHub Copilot "Chat" extension along the left panel.
 
