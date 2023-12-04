@@ -2,7 +2,7 @@
 
 ⏳ It will take a few seconds the Codespace to begin installing the Python requirements.
 
-📝 In the meantime, begin by following the instructions in the README.
+📝 In the meantime, begin following the instructions in the README.
 
 ❓ If you have questions, use the GitHub Copilot "Chat" extension along the left panel.
 
