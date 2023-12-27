@@ -5,7 +5,8 @@ This example project is written in Python, and tested with pytest.
 The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
 
 ## Setup command
-`sudo -H pip3 install -r requirements.txt`
+
+See `postCreateCommand` from [`devcontainer.json`](.devcontainer/devcontainer.json).
 
 ## Run command
 `pytest`
