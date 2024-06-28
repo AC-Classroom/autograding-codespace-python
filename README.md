@@ -12,4 +12,4 @@ See `postCreateCommand` from [`devcontainer.json`](.devcontainer/devcontainer.js
 `pytest`
 
 ## Notes
-- pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be unaccessible.
+- pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be inaccessible.
